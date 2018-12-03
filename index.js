@@ -1,5 +1,5 @@
 export const hello = () => {
-  console.log('hello world')
-}
+  console.log('hello world');
+};
 
-hello()
+hello();
